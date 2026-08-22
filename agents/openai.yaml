@@ -1,0 +1,4 @@
+interface:
+  display_name: "Speculative Fiction Writer"
+  short_description: "Write canon-grounded bilingual AU fiction"
+  default_prompt: "Use $unreal-fiction to build a canon-grounded AU and write it in my chosen language, setting, trope, and length."
