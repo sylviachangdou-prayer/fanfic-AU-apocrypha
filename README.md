@@ -9,10 +9,12 @@ AI fiction fails in predictable ways: characters agree too fast, the world is de
 Claude Code:
 
 ```bash
-git clone https://github.com/USER/unreal-fiction ~/.claude/skills/unreal-fiction
+git clone https://github.com/sylviachangdou-prayer/AU_fanfiction_plotter ~/.claude/skills/unreal-fiction
 ```
 
 Claude app: zip the folder and upload it under Settings → Capabilities → Skills.
+
+To update: `git pull` in that directory, or re-upload the zip.
 
 Then just ask for the story. The skill loads itself, and loads only the reference files your request needs.
 
