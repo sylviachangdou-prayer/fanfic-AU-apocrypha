@@ -9,7 +9,7 @@ AI fiction fails in predictable ways: characters agree too fast, the world is de
 Claude Code:
 
 ```bash
-git clone https://github.com/sylviachangdou-prayer/AU_fanfiction_plotter ~/.claude/skills/unreal-fiction
+git clone https://github.com/sylviachangdou-prayer/fanfic-AU-apocrypha ~/.claude/skills/unreal-fiction
 ```
 
 Claude app: zip the folder and upload it under Settings → Capabilities → Skills.
