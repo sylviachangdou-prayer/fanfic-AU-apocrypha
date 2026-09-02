@@ -81,7 +81,7 @@ This is the widest measured gap between machine and human fiction, so treat it a
 - **Do not arrive at late beats early.** Label each scene with the act it belongs to. A confession, a reveal, or an armistice appearing in the opening third is structural collapse, not efficient pacing.
 - **Break the chain once per scene.** Model prose is far more predictable from its own preceding sentences than human prose is. Put at least one thing in every scene that does not follow from the paragraph before it: an interruption from outside, an old grievance a character carries in, a physical fact indifferent to the current mood, a piece of business belonging to someone else's day.
 - **Swing the emotional line.** Machine narrative trends uniformly positive with a flat arousal curve. Each unit needs one genuine reversal of direction, and the reversal has to cost something rather than resolve.
-- **Say nothing twice.** Models state the theme explicitly around three quarters of the time; humans do it about half. Allow the piece one sentence that comes near the theme, or none.
+- **Say nothing twice.** Machine narrative states its own theme far more readily than human fiction does, and states it more than once. Allow the piece a single sentence that comes near the theme, or none at all.
 - **Make the tension auditable.** For any passage meant to be tense, write privately: the specific thing the reader does not yet know, and the point at which they will learn it. If that sentence cannot be written, the passage has surface markers of drama — trembling hands, held breath, air going still — with nothing actually withheld underneath. Cut the markers, not the scene.
 
 Source: Spoiler Alert, arXiv:2604.09854.
