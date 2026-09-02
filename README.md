@@ -12,7 +12,7 @@ Claude Code:
 git clone https://github.com/sylviachangdou-prayer/fanfic-AU-apocrypha ~/.claude/skills/unreal-fiction
 ```
 
-Claude app: zip the folder and upload it under Settings → Capabilities → Skills.
+Claude app: download the zip from [Releases](https://github.com/sylviachangdou-prayer/fanfic-AU-apocrypha/releases) and upload it under Settings → Capabilities → Skills.
 
 To update: `git pull` in that directory, or re-upload the zip.
 
