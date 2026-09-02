@@ -24,6 +24,20 @@ Choose one route without making the user learn the workflow.
 1. **Original fiction**: Start from the user's premise, desired image, relationship, trope, mood, or ending. Infer low-risk details. Ask one compact round of questions only when language, length, content boundaries, or a choice that would fundamentally change the book is missing.
 2. **Fanfiction or AU**: Obtain the source canon and cutoff, the characters, three to five immutable behavioral anchors per lead, intended relationship, AU premise, desired canon divergences, language, length, and content boundaries. Ask only for missing high-impact information. Do not replace characterization with appearance, house, faction, secondary gender, powers, or a fandom stereotype.
 
+   Settle these before drafting. Ask for everything missing in one round, and never ask twice. Ending and length are the two that waste an entire draft when guessed wrong, so state an explicit assumption whenever the user has not given them.
+
+   | Variable | Options | If unstated |
+   |---|---|---|
+   | Language | Chinese / English | the language the request was written in |
+   | 篇幅 | flash / chapter / short story / novella / novel | smallest form that carries the premise, named as an assumption |
+   | 结局 | HE / BE / 开放结局 / 先虐后甜 / HE with a cost | ask; this is the primary tag readers select on |
+   | AU 类型 | 星际 / 现代 / ABO / 娱乐圈 / 校园 / 民国 / 武侠 / 废土 / 魔法学院 / 赛博朋克 / 兽人 / 穿书 / 重生 / 职场 | ask, and confirm the mode in source-grounding section 6 |
+   | CP 与方向 | the pairing, and which side is which where the fandom marks it | ask |
+   | 分级 | 清水 / 擦边 / explicit | 清水 |
+   | 视角 | first person / close third / alternating close third | close third |
+   | 私设容忍度 | strict canon / 允许私设 / 完全AU | 允许私设 |
+   | 交付方式 | one delivery / sequential chapters | by length |
+
    Establish the whole relational map, not only the pairing. A fanfiction pairing reassigns every other relationship in the source: canon partners routinely become friends, comrades, siblings, colleagues, or rivals, and this reassignment is a convention of the form rather than an error to correct. Take the user's fandom conventions as outranking canon relationships, and confirm the reassignment for any canon partner the story will touch.
 3. **Continuation**: Read the existing manuscript, story bible, and the user's revisions first. Continue from established facts and voice. Do not ask the user to restate information already present.
 4. **Revision**: Preserve plot facts, intentional ambiguity, voice, and user-written irregularities unless the user authorizes structural changes. Diagnose before rewriting when the request is only for critique.

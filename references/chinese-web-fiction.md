@@ -123,9 +123,9 @@ Passing a gate does not require equal word count. It requires sufficient evidenc
 
 ## 9. Web-fiction propulsion
 
-Apply this section when the user asks for 网文感, a platform serial, or web-fiction pacing. It overrides the default caution against visible chapter machinery in [craft.md](craft.md) and `SKILL.md`. It does not override the nine gates in section 8.
+Web fiction is a delivery contract, not a lower standard. The chapter-end hook is required here, which overrides the general caution against visible chapter machinery in [craft.md](craft.md); the nine gates in section 8 still apply in full.
 
-Web fiction is a delivery contract, not a lower standard. Each installment owes the reader:
+Each installment owes the reader:
 
 - **爽点**: one moment where a character is right, competent, vindicated, or finally allowed to say the thing. Withholding this across many chapters is a broken contract, not restraint. Deliver it through leverage the story already built, never as an authorial gift.
 - **情绪落差**: place the payoff next to a low — humiliation, loss, being underestimated, a debt called in. Readers return for amplitude, not for average level.

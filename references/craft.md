@@ -7,17 +7,18 @@ Use these constraints as diagnostic tools, not as a visible formula. Select what
 1. Scene function
 2. Causality and pacing
 3. Long-arc architecture
-4. Character construction
-5. Point of view
-6. Worldbuilding in motion
-7. Dialogue and subtext
-8. Register range and rhetorical risk
-9. Description and embodiment
-10. Action and problem solving
-11. Large set pieces
-12. Intimacy and relationship arcs
-13. Serial propulsion
-14. Final craft check
+4. Tension and disclosure
+5. Character construction
+6. Point of view
+7. Worldbuilding in motion
+8. Dialogue and subtext
+9. Register range and rhetorical risk
+10. Description and embodiment
+11. Action and problem solving
+12. Large set pieces
+13. Intimacy and relationship arcs
+14. Serial propulsion
+15. Final craft check
 
 ## Scene function
 
@@ -43,6 +44,8 @@ Enter where the pressure becomes specific. Leave after the consequence becomes l
 - Build the next event from a prior choice or neglected consequence. Avoid coincidence as the main bridge between scenes.
 - Alternate compression and expansion. Spend words where perception, choice, or relationship changes; compress routine travel and repeated procedure.
 - Give major turns an aftereffect. A revelation without changed behavior is trivia.
+- Let at least one resource, option, relationship, status, belief, or bodily capacity become harder to recover.
+- Include quiet only when it carries appetite, work, discomfort, humor, resentment, or preparation. "Rest scenes" are still scenes.
 
 Set the ratio before writing the scene. Most of what happens should compress into a clause; one or two moments get full space. A scene that gives every event the same treatment is a report, and it reads flat however good the sentences are.
 
@@ -53,8 +56,6 @@ Every stretch of environment must do at least one job: set a pressure the charac
 Withhold at the level of cause, never at the level of sense. Do not explain why a character does what they do, what a look meant, what the relationship is, or how two facts connect. Do render what is physically present in full. The default failure runs the opposite way: generic sensory detail with every causal link spelled out.
 
 This licenses no vagueness about what a thing is. Objects, names, and grammatical objects stay explicit — a document has a specific name, a verb keeps its object. Withhold interpretation, never identity.
-- Let at least one resource, option, relationship, status, belief, or bodily capacity become harder to recover.
-- Include quiet only when it carries appetite, work, discomfort, humor, resentment, or preparation. "Rest scenes" are still scenes.
 
 ## Long-arc architecture
 
@@ -70,6 +71,20 @@ Build a long story as connected pressure, not a sequence of locally exciting epi
 Use an escalation ladder across different dimensions: access, time, reputation, bodily capacity, institutional response, relationship exposure, and scale. Repeating physical danger at greater volume is not escalation.
 
 Plant setups as usable things: a rule, skill, object, promise, misunderstanding, route, witness, debt, or organizational dependency. A payoff should transform the setup's meaning or cost, not simply mention it again.
+
+## Tension and disclosure
+
+This is the widest measured gap between machine and human fiction, so treat it as the first thing to check rather than the last. Measured on how resistant a story is to having its ending predicted, professional fiction holds 0.765 against the best model output at 0.630, and in the closing stretch the gap widens to 0.607 against 0.215 — nearly triple. The named failure is premature resolution: the model confirms the thing outright at the midpoint and the tension flatlines for the rest of the piece. Human authors withhold strategically; models default to disclosure.
+
+- **Confirm nothing early.** Mutual feeling, a hidden identity, a withheld truth, a reconciliation: none may be stated outright before roughly the last sixth of the piece, and often not even there. Carry them in subtext, deferral, near-misses, and partial admissions instead. A character may act on a thing without either party naming it.
+- **Run a prediction check at every scene break.** Ask what a reader could now confidently say about the ending. If the answer is most of it, the scene resolved something it should have deferred. This check matters most in the final third, which is exactly where model output collapses.
+- **Do not arrive at late beats early.** Label each scene with the act it belongs to. A confession, a reveal, or an armistice appearing in the opening third is structural collapse, not efficient pacing.
+- **Break the chain once per scene.** Model prose is far more predictable from its own preceding sentences than human prose is. Put at least one thing in every scene that does not follow from the paragraph before it: an interruption from outside, an old grievance a character carries in, a physical fact indifferent to the current mood, a piece of business belonging to someone else's day.
+- **Swing the emotional line.** Machine narrative trends uniformly positive with a flat arousal curve. Each unit needs one genuine reversal of direction, and the reversal has to cost something rather than resolve.
+- **Say nothing twice.** Models state the theme explicitly around three quarters of the time; humans do it about half. Allow the piece one sentence that comes near the theme, or none.
+- **Make the tension auditable.** For any passage meant to be tense, write privately: the specific thing the reader does not yet know, and the point at which they will learn it. If that sentence cannot be written, the passage has surface markers of drama — trembling hands, held breath, air going still — with nothing actually withheld underneath. Cut the markers, not the scene.
+
+Source: Spoiler Alert, arXiv:2604.09854.
 
 ## Character construction
 
